@@ -1,0 +1,21 @@
+{
+  "name": "ak-idealtime",
+  "version": "0.0.1",
+  "keywords": [
+    "Ideal time",
+    "Inactive time",
+    "User session time out"
+  ],
+  "author": {
+    "name": "Ajay Chagam",
+    "email": "ajaychagam@gmail.com"
+  },
+  "displayName": "Ak Ideal Time Notification",
+  "peerDependencies": {
+    "@angular/common": "^13.2.0",
+    "@angular/core": "^13.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
